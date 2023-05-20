@@ -1,11 +1,11 @@
-<h1 align="center">Hi, programmers! 
+<h1 align="center">Hi, programmers</h1>
   
 <p align="center">
-    <b>Welcome to my GitHub!</b><br><br>
+    <b>Welcome to my GitHub!</b><br>
     <i>
-        I'm Mohammed Nasser, a computer engineering enthusiast from Egypt .<br>
-       
-    </i><br>
+        I'm <b>Mohammed Nasser</b>, a computer engineering enthusiast from Egypt.
+    </i>
+  <br>
     <a href="https://www.linkedin.com/in/mohamed-nasser-38b045234/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
