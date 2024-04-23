@@ -27,11 +27,12 @@
 
 ### Web Technologies & Frameworks
 [![nodejs](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=node.js)](https://github.com/elweday)
+[![express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/elweday)
 [![react](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/elweday)
-[![Nextjs](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextjs)](https://github.com/elweday)
+[![Nextjs](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextdotjs)](https://github.com/elweday)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/elweday)
 [![svelte](https://img.shields.io/badge/svelte-black?style=for-the-badge&logo=svelte)](https://github.com/elweday)
-[![ThreeJS](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=threejs)](https://github.com/elweday)
+[![ThreeJS](https://img.shields.io/badge/threedotjs-black?style=for-the-badge&logo=threedotjs)](https://github.com/elweday)
 
 ### Technologies and Tools
 [![git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=Git)](https://github.com/elweday)
@@ -47,16 +48,17 @@
 [![NoSQL](https://img.shields.io/badge/nosql-black?style=for-the-badge&logo=mongodb)](https://github.com/elweday)
 [![REST](https://img.shields.io/badge/REST-black?style=for-the-badge&logo=REST)](https://github.com/elweday)
 [![TRPC](https://img.shields.io/badge/trpc-black?style=for-the-badge&logo=trpc)](https://github.com/elweday)
-[![CI/CD](https://img.shields.io/badge/ci/cd-black?style=for-the-badge&logo=githubactions)](https://github.com/elweday)
+[![CI/CD]([https://img.shields.io/badge/ci/cd-black?style=for-the-badge&logo=githubactions)](https://github.com/elweday](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elweday&theme=darcula&utcOffset=8))
 
 
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elweday&theme=transparent" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=elweday&hide_border=true&card_width=338&theme=transparent" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elweday&theme=github_dark" />
 </p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=elweday&color=blue&style=flat)" />
 </p>
+
+
 
